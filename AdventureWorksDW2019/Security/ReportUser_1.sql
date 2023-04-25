@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [ReportUser]
+    WITH PASSWORD = N'oK^GkalrlsuXafdriWc{t!5cmsFT7_&#$!~<nszbmd.yimny', SID = 0xFAAB425F105E3D4A944AAD25C9F6DD32, DEFAULT_DATABASE = [AdventureWorksDW2019], DEFAULT_LANGUAGE = [русский], CHECK_POLICY = OFF;
+

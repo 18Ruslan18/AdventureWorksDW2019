@@ -1,0 +1,2 @@
+﻿CREATE USER [MSSQLServerOLAPService] FOR LOGIN [NT SERVICE\MSSQLServerOLAPService];
+
